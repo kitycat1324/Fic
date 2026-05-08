@@ -21,7 +21,7 @@
     "@prisma/client": "^7.8.0",
     "@supabase/supabase-js": "^2.105.3",
     "@tailwindcss/vite": "^4.2.4",
-    "@vitejs/plugin-react": "^6.0.1",
+    "@vitejs/plugin-react": "^5.2.0",
     "concurrently": "^9.2.1",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
@@ -33,6 +33,6 @@
     "react-dom": "^19.2.5",
     "react-router-dom": "^7.14.2",
     "tailwindcss": "^4.2.4",
-    "vite": "^8.0.10"
+    "vite": "^7.3.3"
   }
 }
