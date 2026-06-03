@@ -6,7 +6,7 @@ services:
     branch: main
     dockerfilePath: ./Dockerfile
     dockerContext: .
-    dockerCommand: npm run start:render
+    dockerCommand: npm run start:prod
     healthCheckPath: /api/health
     autoDeployTrigger: commit
     envVars:
